@@ -7,9 +7,10 @@
 - rungekutta.py -- методы для численного решения ОДУ [3,4].
 - sde.py -- методы для численного решения СДУ [3,4].
 
-[1] А. В. Демидова, ‘Уравнения динамики популяций в форме стохастических дифференциальных уравнений’, Вестник РУДН. Серия: Математика. Информатика. Физика., T. 1, cc. 67–76, 2013. URL: [https://journals.rudn.ru/miph/article/view/8319](https://journals.rudn.ru/miph/article/view/8319).
+[1] А. В. Демидова, ‘Уравнения динамики популяций в форме стохастических дифференциальных уравнений’, Вестник РУДН. Серия: Математика. Информатика. Физика., №. 1, cc. 67–76, 2013. URL: [https://journals.rudn.ru/miph/article/view/8319](https://journals.rudn.ru/miph/article/view/8319).
 
-[2] М. Н. Геворкян, А. В. Демидова, Т. Р. Велиева, А. В. Королькова, Д. С. Кулябов, και Л. А. Севастьянов, ‘Реализация метода стохастизации одношаговых процессов в системе компьютерной алгебры’, Программирование, T. 2, cc. 18–27, 2018.
+[2] Gevorkyan, M.N., Demidova, A.V., Velieva, T.R. et al. Implementing a Method for Stochastization of One-Step Processes 
+in a Computer Algebra System. Program Comput Soft 44, 86–93 (2018). DOI: [10.1134/S0361768818020044](https://doi.org/10.1134/S0361768818020044)
 
 [3] Gevorkyan, M.N., Velieva, T.R., Korolkova, A.V., Kulyabov, D.S., Sevastyanov, L.A. (2016). Stochastic Runge–Kutta Software Package for Stochastic Differential Equations. In: Zamojski, W., Mazurkiewicz, J., Sugier, J., Walkowiak, T., Kacprzyk, J. (eds) Dependability Engineering and Complex Systems. DepCoS-RELCOMEX 2016. Advances in Intelligent Systems and Computing, vol 470. Springer, Cham. DOI: [10.1007/978-3-319-39639-2_15](https://doi.org/10.1007/978-3-319-39639-2_15).
 
